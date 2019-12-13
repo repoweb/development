@@ -1,20 +1,19 @@
 <p align="center"><a href="https://repoweb.github.io" target="_blank"><img src="https://repoweb.github.io/img/repoweb_logo.png" width="200"></a></p>
 
-<p align="center">
-<a href="https://github.com/repoweb/template-repository/blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/repoweb/template-repository" alt="License"></a>
-<a href="https://github.com/repoweb/template-repository"><img src="https://img.shields.io/github/languages/count/repoweb/template-repository" alt="GitHub Language Count"></a>
-<a href="https://github.com/repoweb/template-repository"><img src="https://img.shields.io/github/repo-size/repoweb/template-repository" alt="GitHub Repo Size"></a>
-<a href="https://github.com/repoweb/template-repository/releases"><img src="https://img.shields.io/github/v/release/repoweb/template-repository" alt="GitHub Release"></a>
-</p>
+## About Development
 
-## About Template Repository
+```
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x      _   _   _             _   _               x
+x     / \ | |_| |_ ___ _ __ | |_(_) ___  _ __    x
+x    / _ \| __| __/ _ \ '_ \| __| |/ _ \| '_ \   x
+x   / ___ \ |_| ||  __/ | | | |_| | (_) | | | |  x
+x  /_/   \_\__|\__\___|_| |_|\__|_|\___/|_| |_|  x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+```
 
-This repository is a standard template for generating new repositories with the same directory structure and files.
-
-## Use from the source
-
-
+This repository for testing purposes (Disregard any content)
 
 ## License
 
-Please see the [MIT license](https://github.com/repoweb/template-repository/blob/master/LICENSE.md) for more information.
+Please see the [MIT license](https://github.com/repoweb/development/blob/master/LICENSE.md) for more information.
